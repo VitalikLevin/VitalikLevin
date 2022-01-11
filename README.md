@@ -1,9 +1,9 @@
 ### Welcome to profile of a lazy butt.
 
-| Smiles   |                   |
+| Smile    | Code              |
 | -------- | ----------------- |
-| 🔭 
-| 🤔 
+| 🔭       | :_telescope_:     |
+| 🤔       | 
 | 💬 
 | 📫 
 | 😄 
