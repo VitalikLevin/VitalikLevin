@@ -1,5 +1,10 @@
 # Welcome to my profile
 
+<img align="center"
+  src="https://vitaliklevin.github.io/files/icons/favicon.svg"
+  width="100" height="100"
+  alt="Wormfolder"> 
+
 ## Stats
 
 <picture>
@@ -23,5 +28,5 @@
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VitalikLevin&layout=compact&langs_count=6">
   <img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitalikLevin&layout=compact&langs_count=6"
-    alt="">
+    alt="Most Used Languages">
 </picture>
