@@ -1,9 +1,9 @@
 <img align="center"
   src="https://vitaliklevin.github.io/files/icons/favicon.svg"
-  width="100" alt="Wormfolder">
+  width="100" height="100" alt="Wormfolder">
 
 <img src="https://komarev.com/ghpvc/?username=VitalikLevin&style=flat-square&color=green" 
-  alt=""/>
+  alt="Profile views"/>
 
 <h1 align="center">:raised_hand: Welcome to my profile</h1>
 
@@ -57,17 +57,17 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=VitalikLevin&count_private=true&show_icons=true&theme=tokyonight">
+    srcset="https://github-readme-stats.vercel.app/api?username=VitalikLevin&count_private=true&show_icons=true&theme=great-gatsby">
   <source media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api?username=VitalikLevin&count_private=true&show_icons=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=VitalikLevin&count_private=true&show_icons=true"
-    alt="">
+    srcset="https://github-readme-stats.vercel.app/api?username=VitalikLevin&count_private=true&show_icons=true&theme=graywhite">
+  <img src="https://github-readme-stats.vercel.app/api?username=VitalikLevin&count_private=true&show_icons=true&theme=graywhite"
+    alt="GitHub Stats">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VitalikLevin&layout=compact&theme=tokyonight&langs_count=9">
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VitalikLevin&layout=compact&theme=great-gatsby&langs_count=9">
   <source media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VitalikLevin&layout=compact&langs_count=9">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitalikLevin&layout=compact&langs_count=9"
-    alt="Most Used Languages">
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VitalikLevin&layout=compact&langs_count=9&theme=graywhite">
+  <img alt="Most Used Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitalikLevin&layout=compact&langs_count=9&theme=graywhite">
 </picture>
