@@ -2,8 +2,12 @@
   src="https://vitaliklevin.github.io/files/icons/favicon.svg"
   width="100" height="100" alt="Wormfolder">
 
-<img src="https://komarev.com/ghpvc/?username=VitalikLevin&style=flat-square&color=green" 
-  alt="Profile views"/>
+<div id="metrics">
+  <img src="https://komarev.com/ghpvc/?username=VitalikLevin&style=flat-square&color=green" 
+    alt="Profile views"/>
+  <img src="https://wakatime.com/badge/user/0322dc6f-1beb-402b-b806-2dddc74e86d1.svg?style=flat-square"
+    alt="Time spent in VS Code and Visual Studio since 9-07-2022"/>
+</div>
 
 <h1 align="center">:raised_hand: Welcome to my profile</h1>
 
