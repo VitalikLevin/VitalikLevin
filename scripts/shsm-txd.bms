@@ -1,0 +1,59 @@
+# game: Silent Hill Shattered Memories
+# files: DATA_*.TXD
+# platforms: PSP
+# (c) 2023 by Vitaliy Levin
+get SIZE0 asize
+idstring "\x16\x07\x00\x00"
+get FULLNAME basename
+string FULLNAME += "/"
+get segmentSize long
+get FFFF0218 long
+get SIZE1 long
+get DUMMY0 double
+get DUMMY1 double
+get DUMMY2 double
+get typeIDlength long
+get RWID_TEX double
+get DICTIONA double
+get LASTTYPEBYTES long
+get targetPATHlength long
+getdstring ZBUILDOUTPUT targetPATHlength
+get sourcePATHlength long
+getdstring SOURCEPATH sourcePATHlength
+get DUMMY3 long
+for i = 0 <= 4
+  get itemSize long
+  get 16threenull long
+  get idkSize0 long
+  get DUMMY4 double
+  get DUMMY5 double
+  get DUMMY6 double
+  get idkSize1 long
+  get DUMMY7 double
+  get DUMMY8 double
+  get DUMMY9 long
+  get width short
+  get height short
+  get bitsPerPixel byte
+  if bitsPerPixel == "\x04"
+    set sizeDivider 0.5
+    else
+      set sizeDivider 1
+  endif
+  get mipmapCount byte
+  get textureFormat byte
+  get palleteFormat byte
+  for f = 0 <= 11
+    get awfulGoo double
+    math f = f + 1
+  getdstring TEXTURENAME 0x40
+  print TEXTURENAME
+  string FULLNAME += TEXTURENAME
+  string FULLNAME += ".png"
+  set wXbpp width
+  math wXbpp *= sizeDivider
+  set SIZE height
+  math SIZE *= wXbpp
+  savepos OFFSET
+  log FULLNAME OFFSET SIZE
+next i
