@@ -21,6 +21,9 @@
     alt="CSS"
     src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img width="40" height="40"
+    alt="Firefox" title="Cool Mozilla Firefox logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg">
+  <img width="40" height="40"
     alt="GIMP"
     src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg">
   <img width="40" height="40"
