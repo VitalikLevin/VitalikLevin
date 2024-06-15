@@ -1,6 +1,6 @@
 <img align="center"
   src="https://vitaliklevin.github.io/files/icons/favicon.svg"
-  width="100" height="100" alt="Wormfolder">
+  width="100" height="100" alt="Wormfolder drawn by Vitaliy Levin">
 
 <div id="metrics">
   <img src="https://komarev.com/ghpvc/?username=VitalikLevin&style=flat-square&color=green" 
@@ -39,8 +39,14 @@
     alt="Javascript"
     src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img width="40" height="40"
+    alt="Jekyll"
+    src="https://github.com/devicons/devicon/blob/master/icons/jekyll/jekyll-original.svg">
+  <img width="40" height="40"
     alt="Markdown"
     src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg">
+  <img width="40" height="40"
+    alt="Python 3"
+    src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img width="40" height="40"
     alt="Visual Studio"
     src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
