@@ -5,8 +5,8 @@
 <div id="metrics">
   <img src="https://komarev.com/ghpvc/?username=VitalikLevin&style=flat-square&color=green" 
     alt="Profile views">
-  <img src="https://wakatime.com/badge/user/0322dc6f-1beb-402b-b806-2dddc74e86d1.svg?style=flat-square"
-    alt="Time spent in VS Code and Visual Studio since 2022-07-09">
+  <img src="https://img.shields.io/badge/wakatime-%F0%9F%91%8E_not_recommended-blue?style=flat-square"
+    alt="I hate Wakatime developers">
 </div>
 
 <h1 align="center">:raised_hand: Welcome to my profile</h1>
@@ -14,9 +14,6 @@
 ## :hammer_and_wrench: Languages and Tools
 
 <div id="langstools">
-  <img width="40" height="40"
-    alt="C Sharp"
-    src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
   <img width="40" height="40"
     alt="CSS"
     src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
@@ -44,12 +41,6 @@
   <img width="40" height="40"
     alt="Markdown"
     src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg">
-  <img width="40" height="40"
-    alt="Ruby"
-    src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg">
-  <img width="40" height="40"
-    alt="Unity"
-    src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg">
   <img width="40" height="40"
     alt="Visual Studio"
     src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
